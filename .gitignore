@@ -14,6 +14,10 @@
 **/*.mp3
 
 
+#ignore png files
+**/*.png
+
+
 #ignore psd files
 **/*.psd
 
