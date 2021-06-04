@@ -1,0 +1,27 @@
+#ignore eps files
+**/*.eps
+
+#ignore jpg files
+**/*.jpg
+**/*.jpeg
+
+#ignore video files
+**/*.avi
+**/*.mp4
+
+
+#ignore audio files
+**/*.mp3
+
+
+#ignore png files
+**/*.png
+
+
+
+#ignore compressed files
+**/*.rar
+**/*.zip
+
+#ignore svg files
+**/*.svg
