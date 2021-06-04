@@ -18,6 +18,9 @@
 **/*.png
 
 
+#ignore psd files
+**/*.psd
+
 
 #ignore compressed files
 **/*.rar
