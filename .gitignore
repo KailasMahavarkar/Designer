@@ -14,10 +14,6 @@
 **/*.mp3
 
 
-#ignore png files
-**/*.png
-
-
 
 #ignore compressed files
 **/*.rar
