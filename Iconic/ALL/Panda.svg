@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FF86B1;}
+	.st2{display:none;opacity:0.1;fill:#0C0000;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#020000;}
+	.st4{fill:#FF86B1;}
+	.st5{fill:#0C0400;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st7{stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st8{fill:#FFE7E4;stroke:#000000;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st10{opacity:0.77;fill:#FF86B1;}
+	.st11{fill:#080100;}
+</style>
+<g id="Layer_1" class="st0">
+	<path id="XMLID_11_" class="st1" d="M1000.2,500c0,21.6-1.4,42.8-4,63.7c-4.3,34.1-12.1,67-22.9,98.6
+		c-57.9,169-203.9,297.2-383.2,329.8c-1.9,0.3-3.7,0.7-5.6,1c-19.8,3.4-40,5.6-60.5,6.5c-8,0.4-16,0.6-24.1,0.6
+		c-276.3,0-500.2-224-500.2-500.2S223.7-0.2,500-0.2c264.7,0,481.4,205.6,499,465.8C999.8,477,1000.2,488.4,1000.2,500z"/>
+</g>
+<g id="Layer_2">
+	<path id="XMLID_8_" class="st2" d="M1000.2,500c0,21.6-1.4,42.8-4,63.7c-4.3,34.1-12.1,67-22.9,98.6
+		c-57.9,169-203.9,297.2-383.2,329.8c-1.9,0.3-3.7,0.7-5.6,1c-19.8,3.4-40,5.6-60.5,6.5L282.5,758.3L787,253.6l212,212
+		C999.8,477,1000.2,488.4,1000.2,500z"/>
+	<ellipse id="R_x5F_BLACK_x5F_EAR" class="st3" cx="711.3" cy="330" rx="116.9" ry="105.9"/>
+	<ellipse id="R_x5F_EAR" class="st4" cx="715.2" cy="337.4" rx="69.2" ry="62.7"/>
+	<ellipse id="L_x5F_BLACK_x5F_EAR" class="st5" cx="281.8" cy="331.5" rx="116.9" ry="105.9"/>
+	<ellipse id="L_x5F_EAR" class="st4" cx="282" cy="337" rx="69.2" ry="62.7"/>
+	<path id="FACE" class="st6" d="M542,797.1h-79.1c-160,0-293.4-72.5-293.4-232.5v-7.3c0-160,130.9-291,291-291h79.1
+		c160,0,291,130.9,291,291v7.3C830.5,724.6,702,797.1,542,797.1z"/>
+	<path id="L_x5F_EYE_1_" class="st7" d="M352.5,557.7c-34.1,0-61.7-27.6-61.7-61.7s30.3-48.5,61.7-61.7
+		c53.4-22.5,82.7,3.2,61.7,61.7C402.6,528,386.5,557.7,352.5,557.7z"/>
+	<path id="L_x5F_EYE" class="st8" d="M377.4,495.8L377.4,495.8c-15.8,0-28.8-13-28.8-28.8v0c0-15.8,13-28.8,28.8-28.8h0
+		c15.8,0,28.8,13,28.8,28.8v0C406.2,482.8,393.2,495.8,377.4,495.8z"/>
+	<path id="R_x5F_EYE" class="st7" d="M707.6,494.4c0,34.1-27.6,61.7-61.7,61.7c-34.1,0-48.5-30.3-61.7-61.7
+		c-22.5-53.4,3.2-82.7,61.7-61.7C678,444.2,707.6,460.3,707.6,494.4z"/>
+	<path id="E_x5F_EYE" class="st8" d="M645.7,469.5L645.7,469.5c0,15.8-13,28.8-28.8,28.8h0c-15.8,0-28.8-13-28.8-28.8v0
+		c0-15.8,13-28.8,28.8-28.8h0C632.7,440.6,645.7,453.6,645.7,469.5z"/>
+	<path id="Mouth" class="st9" d="M452.4,696h88.5c4.6,0,8,4.2,7.1,8.7c-2,10-7.1,19.2-14.5,26.5c-9.5,9.5-22.5,14.7-36.9,14.7
+		c-14.4,0-27.4-5-36.9-14.4c-7.3-7.3-12.5-16.7-14.5-26.8C444.4,700.2,447.8,696,452.4,696z"/>
+	<ellipse id="C_x5F_RIGHT" class="st10" cx="644.8" cy="670.9" rx="52.4" ry="35.5"/>
+	<path id="NOSE" class="st11" d="M548.4,595.2c0,15.4-21.4,38.7-48.2,38.7s-48.7-23.3-48.7-38.7s22.3-21.1,49-21.1
+		C527.3,574.1,548.4,579.8,548.4,595.2z"/>
+	<ellipse id="C_x5F_RIGHT_1_" class="st10" cx="347.8" cy="672.1" rx="52.4" ry="35.5"/>
+</g>
+</svg>

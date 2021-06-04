@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#201600;}
+	.st2{display:none;fill:#08E800;}
+	.st3{display:none;fill:#0023FD;}
+	.st4{display:none;fill:#F94900;}
+	.st5{fill:none;stroke:#201600;stroke-width:10;stroke-miterlimit:10;}
+	.st6{display:none;fill:#201600;}
+	.st7{font-family:'TheJukeBox-FFP';}
+	.st8{font-size:74.8909px;}
+</style>
+<rect id="BG" y="0" class="st0" width="1000" height="1000"/>
+<path id="S2" class="st1" d="M297.9,680.6c1.4,0,2.4,1.3,2.1,2.6l-6.5,27.7c-0.1,0.3-0.2,0.7-0.2,1c-0.2,1-1.1,1.6-2.1,1.6h-28.8
+	c-1.7,0-2.7-1.9-1.7-3.3l19.8-28.6c0.4-0.6,1-0.9,1.7-0.9H297.9z"/>
+<path id="S1" class="st1" d="M702.1,680.6c-1.4,0-2.4,1.3-2.1,2.6l6.5,27.7c0.1,0.3,0.2,0.7,0.2,1c0.2,1,1.1,1.6,2.1,1.6h28.8
+	c1.7,0,2.7-1.9,1.7-3.3l-19.8-28.6c-0.4-0.6-1-0.9-1.7-0.9H702.1z"/>
+<rect id="G" x="593.4" y="323.6" class="st2" width="189.6" height="361.2"/>
+<rect id="B" x="400.3" y="319.6" class="st3" width="193.1" height="361.2"/>
+<rect id="R" x="212.2" y="319.6" class="st4" width="188.2" height="361.2"/>
+<path id="BEZEL" class="st5" d="M776.5,680.6H223.5c-6.2,0-11.3-5.1-11.3-11.3V330.7c0-6.2,5.1-11.3,11.3-11.3h553.1
+	c6.2,0,11.3,5.1,11.3,11.3v338.6C787.8,675.5,782.8,680.6,776.5,680.6z"/>
+<text id="XMLID_392_" transform="matrix(3.0661 0 0 1 663.6599 434.6349)" class="st6 st7 st8">TV</text>
+<rect id="DASH_1_" x="660.8" y="372.1" class="st1" width="96" height="4.3"/>
+<rect id="DASH" x="660.8" y="430.4" class="st1" width="96" height="4.3"/>
+<polygon id="TV_x5F_points" class="st1" points="660.8,380.2 660.8,385.4 673.3,385.4 673.3,427.1 691.8,427.1 691.8,385.8 
+	701.8,385.8 715.8,427.1 738.6,427.1 754.2,380.2 735.1,380.2 727.2,414.4 719.6,380.2 "/>
+</svg>

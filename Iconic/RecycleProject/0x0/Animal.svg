@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Paw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<g id="fingers">
+	<g>
+		<ellipse transform="matrix(0.809 -0.5878 0.5878 0.809 -245.775 193.8393)" cx="175.4" cy="475.1" rx="97.1" ry="150.7"/>
+		<ellipse transform="matrix(0.5878 -0.809 0.809 0.5878 -44.401 862.8768)" cx="824.6" cy="475" rx="150.7" ry="97.1"/>
+	</g>
+	<g>
+		<ellipse transform="matrix(0.9782 -0.2079 0.2079 0.9782 -46.0236 78.8895)" cx="352.3" cy="258.4" rx="97.1" ry="150.7"/>
+		<ellipse transform="matrix(0.2079 -0.9782 0.9782 0.2079 260.3116 838.342)" cx="647.8" cy="258.4" rx="150.7" ry="97.1"/>
+	</g>
+</g>
+<g id="main">
+	<path d="M741.2,751.9c0,76.5-63,138.5-140.7,138.5c-0.6,0-1.2,0-1.8,0v0H399.5c-77.7,0-140.7-62-140.7-138.5
+		c0-63,42.7-116.1,101.1-132.9c6.4-70.6,66.7-126,140.1-126s133.7,55.3,140.1,126C698.5,635.8,741.2,689,741.2,751.9z"/>
+</g>
+</svg>
