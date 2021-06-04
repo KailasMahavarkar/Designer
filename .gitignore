@@ -18,10 +18,10 @@
 **/*.png
 
 
-#ignore psd files
-**/*.psd
-
 
 #ignore compressed files
 **/*.rar
 **/*.zip
+
+#ignore svg files
+**/*.svg
